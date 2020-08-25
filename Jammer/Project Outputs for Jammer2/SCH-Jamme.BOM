@@ -1,0 +1,45 @@
+Bill of Material for 
+On 11/08/2016 at 20:43:14
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 100nF               Cap - 100nF - 2   12    C5, C7, C12, C19, C20, C21   Capacitor Ceramic    
+                                           C24, C25, C27, C28, C31, C34
+ 100R                Res-(1/4)        1    R2                           Resistor             
+ 100uF               cap 04           4    C8, C9, C17, C18             Capacitor Electrolytic 
+ 100uH               AXIAL-0.9        5    L1, L2, L3, L4, L5           Magnetic-Core Inductor 
+ 10nF                Cap - 100nF - 2    1    C22                          Capacitor Ceramic    
+ 10R                 Res-(1/4)        1    R10                          Resistor 1/4W        
+ 10uF                cap 01           2    C23, C26                     Capacitor Electrolytic 
+ 148R                Res-(1/4)        1    R5                           Resistor             
+ 160R                Res-(1/4)        1    R4                           Resistor             
+ 180R                Res-(1/4)        1    R3                           Resistor             
+ 1K                  Res-(1/4)        2    R1, R12                      Resistor             
+ 1N4007              DO-41            2    D3, D4                       Rectifiers           
+ 1nF                 Cap - 100nF - 2    2    C29, C33                     Capacitor ceramic    
+ 2200uF              cap 04           5    C1, C2, C3, C10, C11         Capacitor Electrolytic 
+ 2K                  Res-(1/4)        4    R9, R11, R14, R15            Resistor 1/4W        
+ 2N2222A             TO52             1    Q1                           NPN Transistor_Created by DESIGNER (M.Hariri) 
+ 330nF               Cap - 100nF - 2    4    C4, C6, C13, C14             Capacitor Ceramic    
+ 33K                 Res-(1/4)        1    R13                          Resistor 1/4W        
+ 470uF               cap 03           2    C30, C32                     Capacitor Electrolytic 
+ 6.8V                DO-41            1    DZ1                          Diode Zener          
+ 700R                Res-(1/4)        2    R6, R7                       Resistor 1/4W        
+ 82K                 Res-(1/4)        1    R8                           Resistor 1/4W        
+ CVCO55BE            CVCO55BE         1    VCO2                         SMD                  
+ CVCO55CL            CVCO55CL         1    VCO1                         SMD                  
+ DCS1800             BNC - Connector    1    Antenna DCS1800              Antenna DCS1800      
+ Diode Bridge        Diode Bridge     1    D2                           Full Wave Diode Bridge 
+ FUSE                FUSE_1           1    F1                                                
+ GSM900              BNC - Connector    1    Antenna GSM900               Antenna GSM900       
+ Heatsink            Heatsink 2PIN    5    H1, H2, H3, H4, H5           Heatsink             
+ Input AC            HDR1X3           1    Input AC                     Header, 3-Pin        
+ L7805               TO-220           1    Reg2                         TO-220               
+ L7812               TO-220           1    Reg1                         TO-220               
+ L7912               TO-220           1    Reg5                         TO-220               
+ LED                 GREEN LED 5mm    1    D1                           LED                  
+ LM317               TO-220           2    Reg3, Reg4                   TO-220               
+ LM386               DIP8             1    U3                           Audio Amplifier      
+ LM741-UA741         DIP8             1    U2                           (OP-AMP)             
+ NE555               DIP8             1    U1                           GENERAL PURPOSE SINGLE BIPOLAR TIMERS 
+ PF08109B            RF-O-12          2    PA1, PA2                     Power Amplifier      

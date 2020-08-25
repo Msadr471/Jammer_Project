@@ -1,0 +1,47 @@
+Net Status Report
+Filename     : E:\Jammer\PCB-Jammer.PcbDoc
+Date         : 11/08/2016
+Time         : 21:04:34
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    GND, Signal Layers Only, 1181.1193mm
+    NetAntenna DCS1800_1, Signal Layers Only, 26.3339mm
+    NetAntenna GSM900_1, Signal Layers Only, 26.96mm
+    NetC10_2, Signal Layers Only, 72.8891mm
+    NetC11_2, Signal Layers Only, 79.0343mm
+    NetC18_1, Signal Layers Only, 50.9274mm
+    NetC19_1, Signal Layers Only, 33.7255mm
+    NetC19_2, Signal Layers Only, 43.3926mm
+    NetC1_1, Signal Layers Only, 228.0224mm
+    NetC20_1, Signal Layers Only, 29.3652mm
+    NetC20_2, Signal Layers Only, 125.5978mm
+    NetC22_1, Signal Layers Only, 4.243mm
+    NetC23_1, Signal Layers Only, 17.706mm
+    NetC23_2, Signal Layers Only, 7.6121mm
+    NetC24_1, Signal Layers Only, 20.1817mm
+    NetC25_1, Signal Layers Only, 13.4386mm
+    NetC25_2, Signal Layers Only, 8.7338mm
+    NetC26_1, Signal Layers Only, 4.9018mm
+    NetC26_2, Signal Layers Only, 4.3662mm
+    NetC27_1, Signal Layers Only, 9.2418mm
+    NetC27_2, Signal Layers Only, 15.3584mm
+    NetC28_1, Signal Layers Only, 175.6061mm
+    NetC29_1, Signal Layers Only, 191.352mm
+    NetC2_1, Signal Layers Only, 102.295mm
+    NetC30_1, Signal Layers Only, 210.1164mm
+    NetC3_1, Signal Layers Only, 77.3979mm
+    NetC9_1, Signal Layers Only, 68.2253mm
+    NetD1_1, Signal Layers Only, 6.7157mm
+    NetD2_1, Signal Layers Only, 17.2112mm
+    NetD2_2, Signal Layers Only, 19.7211mm
+    NetD2_4, Signal Layers Only, 18.669mm
+    NetD3_1, Signal Layers Only, 33.2378mm
+    NetL2_1, Signal Layers Only, 167.7239mm
+    NetL5_2, Signal Layers Only, 14.9431mm
+    NetPA1_9, Signal Layers Only, 23.3234mm
+    NetPA2_12, Signal Layers Only, 20.1863mm
+    NetR2_2, Signal Layers Only, 18.3002mm
+    NetR4_2, Signal Layers Only, 17.8327mm
+    NetR9_1, Signal Layers Only, 48.0318mm
+count : 39
